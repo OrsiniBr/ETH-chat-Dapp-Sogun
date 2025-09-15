@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "rainbowkit": "rainbow-me/rainbowkit",
+      },
+    },
+  },
+  "packages": {
+    "rainbowkit": ["rainbowkit@github:rainbow-me/rainbowkit#b2a464f", {}, "rainbow-me-rainbowkit-b2a464f"],
+  }
+}
